@@ -78,6 +78,11 @@ footer {
     border: 1px solid white;
 }
 
+img.myImage {
+    height: 15px;
+    width: 15px;
+}
+
 
 /* Mobile Viewport */
 
